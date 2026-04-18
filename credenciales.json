@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jbimports-pedidos",
+  "private_key_id": "4416d0e232a7e4ef70fad109c6bbd78eeecc1e00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqVSllzi2SvRFH\nBQMsPUKhQRUIJj51YgEiJ4SgPOH32s/c0ogG5djpGuBB0P3l0uNI1h6MGp6c1+rg\nNlWixVBOlqcGGPvsQ//QGS6uDS3fJzUurkqa+coo9MKsJzZBNUFGgaI4IwYaLdcR\npASODWxy30qdw25bX+c28HGncpGtdHKUWidqVYaHisqHxJzXTXtswt4WtH4Lul7J\n4tUwKL99k9LlzljdCwrQdEAO1jYJPK7rEKsidLTXb6hDnKPqcy/dsEoh5iE0JjZd\nbbRxwzeEXfcHzleOsNMDrFaVDkkXdIVRHMl0Zs2HlsI4stU7pC++xf0yxDvz+E+m\nqJXc8RWjAgMBAAECggEAALRirZnteWaGFi1FTxLActwp84uIstZrnSKCKvaP1hnk\nc29Tt/0BddKyRMR3KK3ci6Wr4wi2xRnhkCJ/mdaJepdtLjMRQm/4WbPjSfN1AZck\nsKV47y603qE/CBR6ah/mrXAB4ZxwxUvTJz9BLeRKnVmOH6S6PoPpa6VkHxoAaJD5\nG1493/8Nijw8qRjZdBQdK69VSBuQNstlpsSF1MrZnDt3OrPDfhitcn0eMrWkjaNL\nR1p+Mb6wfmiabR+ez3g24qwUptfdYiE8FARi2Yc3835snp6uEDlcmpFm6Tl0ZYUl\nflgMXJosP4SBk7bfvCzuLgJDV+h+xnfzJPiht1uL5QKBgQDaena9iz/PabUFQuTf\nrdwj8teTc5+VgoKcc2Z+txx9/hRKzDHgz/DGj3+zV6/jvUrvLwH9bxoFyGYfx8ia\ndoIl1M6OeVRdAaDqg1YwRv4RDF9ifytDhSv2yRKHdvqNWVuHMeslZKJs6padbVm4\n/TW+C0ctmGwR+2rSYUwzOjDYdQKBgQDHlfEqQnuJ8lINyH81pynE9MppRk9oSCg+\nw14W0ZdSKHK+inD0tAt7nB78kx0Wb9kviQoYSJh1pAQpHOq/B9izmvQhKWYpkqmX\nPvpqbufBx/KIZkUDQMhyHLbXhuEWEI681xYb4rrgznx3vdb4/EySiIpAR6F1vlwd\nI1XbftGytwKBgCacSevJdidzqPgbEFOvaB46RnrajjNf8zEu+8gdGD3z7yYg3Be8\n5/JPXeQV9RGsXFfU2OcvAUxQVCv9pKgXlXyWFUL8kjo1lXicaVjy0ue0Zg8EJmMy\nX8inVEz4a+MbDZ/g5IuhM0tIUgHUV2zn4t2JJLUcIM00v3Yal9rdx9AZAoGAAvzO\nmFhYaw8yhTxMEyyGZolXgk3oIGJ8H7xi6yqF/lfWp92ApVkQlvAWUqeNFunjsV92\nxDhJ9/DVkxv4s5VVfBLEtr5c5iBo43ew3ej9FRx+F+aX/913YqXlYsKFGgRzboY1\nsYMqUvUkTdKMpjt4lfTvRNkNpKqNzG3b+iYi028CgYAh1VT5er+0S5whev1ckWDK\nP0PncoCd83LK6jgpDXUTWqNMN44qM/zyZRgTe+O+9XIGMMOtrk2axLfUdxDDhTYC\nnVTseTGSwyWF1KmaikaZc7TCtF/RfyzM9NbC2YCsZOTITt8WFIWjsxY3uXrxMGms\nbrF01ZepaTG9pW15nG70XQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jb-imports-bot@jbimports-pedidos.iam.gserviceaccount.com",
+  "client_id": "104010804030359795479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jb-imports-bot%40jbimports-pedidos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
